@@ -1,0 +1,1 @@
+it is mainly designed for btech students where they can keep the records of their progress, results in a more systematic manner and could easily look for the areas where they are lagging behind by analyzing thier progress
